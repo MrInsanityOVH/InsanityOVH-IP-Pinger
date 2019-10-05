@@ -1,8 +1,7 @@
 @echo off & setlocal DisableDelayedExpansion
 REM         Created By Mr InsanityOVH - https://insanityovh.cf/
 title InsanityOVH IP Pinger With Timestamp By InsanityOVH
-set /p TARGET=I Want To Check This IP:
-REM         Created By Mr InsanityOVH - https://insanityovh.cf/
+set /p TARGET=I Want To Check This IP: 
 cls
 echo           Created By Mr InsanityOVH - https://insanityovh.cf/
 echo                      Follow Me On Twitter @OGHFW
